@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ArtGallery-Redux-React/static/css/main.863a75a4.css",
+    "main.js": "/ArtGallery-Redux-React/static/js/main.a454110a.js",
+    "static/media/Corinthia.ttf": "/ArtGallery-Redux-React/static/media/Corinthia.1704bfc77c8dd29e6b24.ttf",
+    "static/media/sourcesansprosemibold.ttf": "/ArtGallery-Redux-React/static/media/sourcesansprosemibold.7ad829237d1bad20c361.ttf",
+    "static/media/sourcesansprolight.ttf": "/ArtGallery-Redux-React/static/media/sourcesansprolight.583eab410c0fe36dc8c9.ttf",
+    "index.html": "/ArtGallery-Redux-React/index.html",
+    "main.863a75a4.css.map": "/ArtGallery-Redux-React/static/css/main.863a75a4.css.map",
+    "main.a454110a.js.map": "/ArtGallery-Redux-React/static/js/main.a454110a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.863a75a4.css",
+    "static/js/main.a454110a.js"
+  ]
+}
