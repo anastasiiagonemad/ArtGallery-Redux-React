@@ -1,6 +1,6 @@
 <h1>Art Institute Chicago Gallery</h1>
 <a href="https://anastasiiagonemad.github.io/ArtGallery-Redux-React/">Preview</a>
-<p>Enjoy the paintings of great masters of art!</h2>
+<p>Enjoy the paintings and art objects of great masters of art!</h2>
 
 
 <h2>About app:</h2>
