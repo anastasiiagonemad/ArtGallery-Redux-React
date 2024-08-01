@@ -1,0 +1,33 @@
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: black;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.header__title {
+    color: white;
+    font-family: "Thin", sans-serif;
+}
+
+.header__btn {
+    font-family: "Thin", sans-serif;
+    color: white;
+    background: none;
+    border: none;
+    padding: 1rem 0 1rem 0;
+    border-top: 0.5px solid rgba(255, 255, 255, 0.4);
+    border-bottom: 0.5px solid rgba(255, 255, 255, 0.4);
+    cursor: pointer;
+}
+
+.header__btn:hover {
+    transition: 0.5s ease-in;
+    color: black;
+    background-color: white;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+}
